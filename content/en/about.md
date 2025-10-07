@@ -24,7 +24,7 @@ quickfacts:
     value: "**Consultant** at <a href=\"https://changingthepresent.org/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Changing The Present</strong></a>"
   - icon: "graduation-cap"
     title: "Education"
-    value: "♦ 🏫 <a href=\"https://www.vt.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Virginia Tech, USA</a> <br> &nbsp;&nbsp;&nbsp;&nbsp; 📜 *Master of Science in Computer Engineering*<br>♦ 🏛️ <a href=\"https://www.bits-pilani.ac.in/goa/\" target=\"_blank\" rel=\"noopener noreferrer\">BITS Pilani, K.K. Birla Goa Campus, India</a> <br> &nbsp;&nbsp;&nbsp;&nbsp; 📜 *Bachelor of Engineering in Electrical & Electronics*"
+    value: "♦ 🏫 <a href=\"https://www.vt.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Virginia Tech, USA (2023)</a> <br> &nbsp;&nbsp;&nbsp;&nbsp; 📜 *Master of Science in Computer Engineering*<br>♦ 🏛️ <a href=\"https://www.bits-pilani.ac.in/goa/\" target=\"_blank\" rel=\"noopener noreferrer\">BITS Pilani, K.K. Birla Goa Campus, India (2012)</a> <br> &nbsp;&nbsp;&nbsp;&nbsp; 📜 *Bachelor of Engineering in Electrical & Electronics*"
   - icon: "award"
     title: "Recent Achievement"
     value: "🏆 <a href=\"https://www.stem-trek.org/2022/09/05/9483/\" target=\"_blank\" rel=\"noopener noreferrer\">**STEM-Trek Award** for Student Volunteer Program at PEARC22, Boston, USA (2022)</a>"
