@@ -21,28 +21,24 @@ personal: >-
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "🤖 AI Developer at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    value: "**Consultant** at <a href=\"https://changingthepresent.org/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Changing The Present</strong></a>"
   - icon: "graduation-cap"
     title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
+    value: "♦ 🏫 <a href=\"https://www.vt.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Virginia Tech, USA</a> <br> &nbsp;&nbsp;&nbsp;&nbsp; 📜 *Master of Science in Computer Engineering*<br>♦ 🏛️ <a href=\"https://www.bits-pilani.ac.in/goa/\" target=\"_blank\" rel=\"noopener noreferrer\">BITS Pilani, K.K. Birla Goa Campus, India</a> <br> &nbsp;&nbsp;&nbsp;&nbsp; 📜 *Bachelor of Engineering in Electrical & Electronics*"
   - icon: "award"
     title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
+    value: "🏆 <a href=\"https://www.stem-trek.org/2022/09/05/9483/\" target=\"_blank\" rel=\"noopener noreferrer\">**STEM-Trek Award** for Student Volunteer Program at PEARC22, Boston, USA (2022)</a>"
   - icon: "language"
-    title: "Languages"
+    title: "Language(s)"
     value: |
-      - 🇬🇧 English (Full Professional)
-      - 🇪🇸 Spanish (Native)
-      - 🇫🇷 French (Intermediate)
+      - 🇺🇸 English (Professional Proficiency)
   - icon: "heart"
     title: "Interests"
     value: |
       - ♟️ Chess
       - 🎾 Tennis
-      - 🚴 Cycling
-      - 🏊‍♂️ Swimming
       - 👨‍🍳 Cooking
-      - 🥁 Drumming
+      - 🎹 Music
       - 📸 Photography
       - ✈️ Traveling
       - 📚 Reading
