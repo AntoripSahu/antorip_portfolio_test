@@ -9,18 +9,17 @@ resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label: "Download Resume"
 
 positions:
-  - company: "Fireraven"
-    company_url: "https://fireraven.ai"
-    role: "AI Developer"
-    period: "May 2025 - Present"
-    industry: "AI Security & Compliance"
-    location: "Montreal - Canada"
-    company_description: "Leading provider of security and compliance solutions for LLM-based AI agents and assistants"
+  - company: "Changing The Present"
+    company_url: "https://changingthepresent.org/"
+    role: "Consultant (Remote)"
+    period: "Feb 2024 - Present"
+    industry: "Non-Profit Organization in Tech"
+    location: "New York, USA"
+    company_description: "Technology for Good: Non-Profit Organization applying digital tools to advance social causes."
     bullet_points:
-      - "Full-stack development of multi-user platforms integrating AI agents and RAG (Retrieval-Augmented Generation) systems"
-      - "Development of state-of-the-art cybersecurity systems for enterprise chatbot solutions"
-      - "Active participation in AI industry events, conferences, and professional networking initiatives"
-      - "Strategic business development focus, driving company growth through new client acquisition and strategic partnerships"
+      - one 
+      - two 
+      - three
 
   - company: "ObraLink"
     company_url: "https://obralink.com"
