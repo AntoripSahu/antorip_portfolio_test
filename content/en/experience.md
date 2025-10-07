@@ -21,41 +21,41 @@ positions:
       - two 
       - three
 
-  - company: "ObraLink"
-    company_url: "https://obralink.com"
-    role: "Senior Software Developer"
-    period: "August 2023 - May 2025"
-    industry: "Construction Technology"
-    location: "Remote"
-    company_description: "Innovative construction technology company developing AI-powered structural analysis tools"
+  - company: "Wireless @ VT Lab, Virginia Tech, USA"
+    company_url: "https://wireless.vt.edu/"
+    role: "Graduate Researcher"
+    period: "Oct 2021 - May 2023"
+    industry: "Wireless Technology: R&D"
+    location: "Blacksburg, VA, USA"
+    company_description: "Pioneer research and development in the field of wireless networks and technology."
     bullet_points:
-      - "Led development of autonomous solutions for real-time structural analysis"
-      - "Created ML models for concrete demand estimation"
-      - "Authored innovation project reports seeking investments exceeding $500K USD"
+      - one 
+      - two 
+      - three
 
-  - company: "Tensacon"
-    company_url: "https://tensacon.cl"
-    role: "Technical Assistant Manager"
-    period: "March 2022 - July 2023"
-    industry: "Construction & Prefabrication"
-    location: "Chile"
-    company_description: "Specialized in prefabricated construction solutions and BIM implementation"
+  - company: "Panasonic Avionics Corporation"
+    company_url: "https://www.panasonic.aero/"
+    role: "Technical Staff"
+    period: "March 2015 - July 2020"
+    industry: "Aerospace & Aviation Technology"
+    location: "Dubai, UAE"
+    company_description: "Global leader of in-flight entertainment, connectivity, and digital solutions for the commercial aviation industry."
     bullet_points:
-      - "Led BIM team to enhance quality and productivity, delivering multiple Fast Track projects"
-      - "Designed solutions for major prefabricated projects, including CODELCO facilities and Pan American Games venues"
-      - "Developed automated workflows reducing design time by 40%"
+      - one 
+      - two 
+      - three
 
-  - company: "Sirve Engineering"
-    company_url: "https://sirve.cl"
-    role: "Structural Engineering Team Lead and R&D Coordinator"
-    period: "March 2019 - March 2022"
-    industry: "Structural Engineering"
-    location: "Chile"
-    company_description: "Engineering firm specializing in high-rise residential and commercial structures"
+  - company: "KPMG"
+    company_url: "https://kpmg.com/in/en/services/kpmg-global-services.html"
+    role: "Executive, Risk Consulting"
+    period: "Nov 2013 - Feb 2015"
+    industry: "Risk Consulting & Professional Services"
+    location: "Bengaluru, India"
+    company_description: "Global provider of risk management, advisory, and consulting solutions helping organizations navigate regulatory, operational, and strategic challenges."
     bullet_points:
-      - "Directed R&D for software tools, reducing initial engineering and structure sizing time by 75%"
-      - "Managed multiple high-rise residential and commercial complexes (~20,000 m² each)"
-      - "Implemented parametric modeling for complex geometries"
+      - one 
+      - two 
+      - three
 
   - company: "Various Engineering Firms"
     role: "Structural Engineer"
