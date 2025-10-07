@@ -6,9 +6,10 @@
 # - Production: Environment variables injected via GitHub Actions
 # - See comments below for setup instructions
 #
-baseURL = "https://felipecordero.com"
+
+baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "Felipe Cordero"
+title = "Antorip Sahu"
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -19,9 +20,9 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Engineer. Coder. Problem Solver."
+      tagline = "Artificial Intelligence Consultant. Data Scientist. Computer Engineer"
       hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
-      hero_location = "Montréal, Canada"
+      hero_location = "Kolkata, India"
       collab_tags = [
         "AI/ML Solutions",
         "Engineering Software",
@@ -64,21 +65,26 @@ defaultContentLanguageInSubdir = false
   writeStats = true
 
 [params]
-name = "Felipe Cordero"
-email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
-author = "Felipe Cordero"
+name = "Antorip Sahu"
 
-og_image = "images/felipecordero-og.png"
+tagline = "Data Scientist & AI Consultant"
+location = "Kolkata, India"
+email = "antorip[DOT]freelance[AT]gmail[DOT]com"
+profile_image = "/images/antorip_sahu_profile.jpg"
+author = "Antorip Sahu"
 
-description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
+og_image = "images/antorip_sahu_profile.jpg"
 
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
+description = "I’m a Computer Engineer specializing in Artificial Intelligence, Machine Learning, Data Analysis, and Technical Writing for both Industry and Research. With over 10 years of experience spanning consulting, aviation, and research across both industry and academia, I offer expertise that is trusted for its clarity, reliability, and precision."
 
-copyright = "© 2025 | Felipe Cordero"
+
+linkedin_url = "https://www.linkedin.com/in/antoripsahu"
+linkedin_text = "linkedin.com/in/antoripsahu"
+github_url = "https://github.com/AntoripSahu"
+github_text = "github.com/AntoripSahu"
+
+#copyright = "© 2025 Antorip Sahu. All rights reserved."
+
 
 
 resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
@@ -101,11 +107,11 @@ resume_label = "View CV"
 
 [[params.social]]
 icon = "linkedin-in"
-url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
+url = "https://www.linkedin.com/in/antoripsahu"
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/felipecordero"
+url = "https://github.com/AntoripSahu"
 
 sectionPagesMenu = 'main'
 
@@ -196,8 +202,14 @@ sectionPagesMenu = 'main'
     main_color = "#0F172A"    # Midnight Blue – deep and authoritative
     second_color = "#8B5CF6"  # Purple – innovation and technology
     third_color = "#06B6D4"   # Cyan – precision and clarity
-  
 
+  [[params.color_palettes.palette]]
+    name = "serious_hokie"
+    main_color = "#2C5282" # Deep Denim Blue: Steady, Trustworthy, and Strong
+    # Source: https://brand.vt.edu/identity/color/color-util.html
+    # main_color = "#75787B" # Hokie Stone
+    second_color = "#E5751F" # Burnt Orange
+    third_color = "#861F41" # Chicago Maroon
 
 
 
