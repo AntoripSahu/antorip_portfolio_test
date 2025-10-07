@@ -87,8 +87,10 @@ technical_groups:
       - icon: "chart-bar"
         name: "Matplotlib"
         devicon_name: "matplotlib"
-      - icon: "file-pdf"
-        name: "ReportLab"
+      - icon: "chart-line"
+        name: "Seaborn"
+        devicon_name: "python"
+
 
   - title: "AI/ML Frameworks"
     icon: "brain"
