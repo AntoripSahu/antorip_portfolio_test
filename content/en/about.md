@@ -6,7 +6,9 @@ intro: >-
   Hello! I'm a Computer Engineer and independent data science consultant with over ten years of experience across consulting, aviation, research, and academia. My work spans Artificial Intelligence, Machine Learning, and advanced analytics, guiding organizations in designing data-driven strategies and automated workflows. I specialize in technical management, data interpretation, and operational optimization, providing practical insights that turn complex problems into measurable outcomes. Clients value my clarity, precision, reliability, and deeply analytical approach.
 
 study: >-
-  VT and BITS
+  I hold a Master of Science in Computer Engineering from Virginia Tech, USA, where I completed a thesis in Artificial Intelligence and was awarded a Graduate Research Assistantship at Wireless@VT, a scholarship-based position supporting my graduate studies. I also earned a Bachelor of Engineering in Electrical and Electronics from Birla Institute of Technology and Science, Pilani, K.K. Birla Goa Campus, India, building a strong foundation for expertise in advanced analytics, Machine Learning, and data-driven solutions.
+
+  # edit from here
 
 passion_title: "What I'm passionate about"
 passion_text: >-
