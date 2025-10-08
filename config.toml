@@ -24,11 +24,11 @@ defaultContentLanguageInSubdir = false
       hero_description = "I am a Computer Engineer and independent consultant specializing in Artificial Intelligence, Data Science, and Technical Management. With over ten years of experience across consulting, aviation, and research, I help organizations transform complex data into actionable insights, enabling smarter, data-driven decision making and workflow automation."
       hero_location = "Kolkata, India"
       collab_tags = [
-        "AI/ML Solutions",
-        "Engineering Software",
-        "R&D & Innovation",
-        "Technical Leadership",
-        "Construction Tech"
+        "Artificial Intelligence & Data Science",
+        "Machine Learning Solutions",
+        "Leadership, Strategy & Consulting",
+        "Data Analysis & Visualization",
+        "Technical Writing & Research"
       ]
   [languages.es]
     contentDir = "content/es"
