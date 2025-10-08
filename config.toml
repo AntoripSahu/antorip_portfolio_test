@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Artificial Intelligence Consultant. Data Scientist. Computer Engineer"
-      hero_description = "I’m a Computer Engineer specializing in Artificial Intelligence, Machine Learning, Data Analysis, and Technical Writing for both Industry and Research. With over 10 years of experience spanning consulting, aviation, and research across both industry and academia, I offer expertise that is trusted for its clarity, reliability, and precision."
+      hero_description = "I am a Computer Engineer and independent consultant specializing in Artificial Intelligence, Data Science, and Technical Management. With over ten years of experience across consulting, aviation, and research, I help organizations transform complex data into actionable insights, enabling smarter, data-driven decision making and workflow automation."
       hero_location = "Kolkata, India"
       collab_tags = [
         "AI/ML Solutions",
@@ -75,7 +75,7 @@ author = "Antorip Sahu"
 
 og_image = "images/antorip_sahu_profile.jpg"
 
-description = "I’m a Computer Engineer specializing in Artificial Intelligence, Machine Learning, Data Analysis, and Technical Writing for both Industry and Research. With over 10 years of experience spanning consulting, aviation, and research across both industry and academia, I offer expertise that is trusted for its clarity, reliability, and precision."
+description = "I am a Computer Engineer and independent consultant specializing in Artificial Intelligence, Data Science, and Technical Management. With over ten years of experience across consulting, aviation, and research, I help organizations transform complex data into actionable insights, enabling smarter, data-driven decision making and workflow automation."
 
 
 linkedin_url = "https://www.linkedin.com/in/antoripsahu"

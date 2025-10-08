@@ -1,12 +1,12 @@
 ---
 title: "About"
 type: "homepage"
-featured_image: "/images/felipe-cordero-profile.jpeg"
+featured_image: "/images/antorip_sahu_profile.jpg"
 intro: >-
-  Hi! I'm Felipe Cordero, a **structural engineer** 🏗️ and **software developer** 💻 with **14+ years** in AEC, now expanding my expertise into **AI/ML** 🤖. My journey has taken me from **Chile to Montréal**, where I combine traditional engineering with modern technology to solve complex problems in engineering and automation. Recently, I was honored with the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 for my achievements in AI/ML studies.
+  Hello! I'm a Computer Engineer and independent data science consultant with over ten years of experience across consulting, aviation, research, and academia. My work spans Artificial Intelligence, Machine Learning, and advanced analytics, guiding organizations in designing data-driven strategies and automated workflows. I specialize in technical management, data interpretation, and operational optimization, providing practical insights that turn complex problems into measurable outcomes. Clients value my clarity, precision, reliability, and deeply analytical approach.
 
 study: >-
-  Currently based in **Montréal** 🇨🇦, I'm deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 at **Collège LaSalle**. I work with **Python** 🐍, **PyTorch**, and **predictive modeling** 📊 to build intelligent systems that bridge the gap between engineering and data science.
+  VT and BITS
 
 passion_title: "What I'm passionate about"
 passion_text: >-
