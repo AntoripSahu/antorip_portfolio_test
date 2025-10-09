@@ -5,7 +5,7 @@ intro: >-
   From enterprise risk consulting to AI innovation, bridging analytical precision from aviation with strategic intelligence to build data-driven solutions.
 
 resume_url_en: "/files/Felipe_Cordero_CV_English_version.pdf"
-resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
+# resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label: "Download Resume"
 
 positions:
@@ -36,7 +36,7 @@ positions:
   - company: "Panasonic Avionics Corporation"
     company_url: "https://www.panasonic.aero/"
     role: "Technical Staff"
-    period: "March 2015 - July 2020"
+    period: "Mar 2015 - Jul 2020"
     industry: "Aerospace & Aviation Technology"
     location: "Dubai, UAE"
     company_description: "Global leader of in-flight entertainment, connectivity, and digital solutions for the commercial aviation industry."
@@ -48,7 +48,7 @@ positions:
   - company: "KPMG"
     company_url: "https://kpmg.com/in/en/services/kpmg-global-services.html"
     role: "Executive, Risk Consulting"
-    period: "Nov 2013 - Feb 2015"
+    period: "2013 - 2015"
     industry: "Risk Consulting & Professional Services"
     location: "Bengaluru, India"
     company_description: "Global provider of risk management, advisory, and consulting solutions helping organizations navigate regulatory, operational, and strategic challenges."
@@ -59,7 +59,7 @@ positions:
 
   - company: "Deloitte"
     role: "Consultant, Enterprise Risk Services"
-    period: "Jul 2012 - Nov 2013"
+    period: "2012 - 2013"
     industry: "Professional Services"
     location: "Mumbai, India"
     company_description: "Global leader in audit, consulting, risk advisory, and financial services helping organizations drive performance, innovation, and sustainable growth."
