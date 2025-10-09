@@ -88,7 +88,7 @@ github_text = "github.com/AntoripSahu"
 
 
 resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
+# resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
 # Contact Form Configuration

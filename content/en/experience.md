@@ -2,7 +2,7 @@
 title: "Experience"
 type: "homepage"
 intro: >-
-  From structural engineering to AI development, building practical tools that bridge traditional engineering with modern technology.
+  From enterprise risk consulting to AI innovation, bridging analytical precision from aviation with strategic intelligence to build data-driven solutions.
 
 resume_url_en: "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
@@ -21,7 +21,7 @@ positions:
       - two 
       - three
 
-  - company: "Wireless @ VT Lab, Virginia Tech, USA"
+  - company: "Wireless@VT Lab, Virginia Tech, USA"
     company_url: "https://wireless.vt.edu/"
     role: "Graduate Researcher"
     period: "Oct 2021 - May 2023"
@@ -57,14 +57,14 @@ positions:
       - two 
       - three
 
-  - company: "Various Engineering Firms"
-    role: "Structural Engineer"
-    period: "2010 - 2018"
-    industry: "Structural Engineering"
-    location: "Chile"
-    company_description: "Multiple engineering firms focusing on seismic-resistant structures and custom solutions"
+  - company: "Deloitte"
+    role: "Consultant, Enterprise Risk Services"
+    period: "Jul 2012 - Nov 2013"
+    industry: "Professional Services"
+    location: "Mumbai, India"
+    company_description: "Global leader in audit, consulting, risk advisory, and financial services helping organizations drive performance, innovation, and sustainable growth."
     bullet_points:
-      - "Designed seismic-resistant structures"
-      - "Developed custom calculation tools"
-      - "Mentored junior engineers"
+      - one 
+      - two 
+      - three
 ---
