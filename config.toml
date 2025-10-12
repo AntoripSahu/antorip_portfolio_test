@@ -204,13 +204,21 @@ sectionPagesMenu = 'main'
 #    second_color = "#8B5CF6"  # Purple – innovation and technology
 #    third_color = "#06B6D4"   # Cyan – precision and clarity
 
-  [[params.color_palettes.palette]]
-    name = "serious_hokie"
-    main_color = "#2C5282" # Deep Denim Blue: Steady, Trustworthy, and Strong
-    # Source: https://brand.vt.edu/identity/color/color-util.html
-    # main_color = "#75787B" # Hokie Stone
-    second_color = "#E5751F" # Burnt Orange
-    third_color = "#861F41" # Chicago Maroon
+#  [[params.color_palettes.palette]]
+#    name = "serious_hokie"
+#    main_color = "#2C5282" # Deep Denim Blue: Steady, Trustworthy, and Strong
+#    # Source: https://brand.vt.edu/identity/color/color-util.html
+#    # main_color = "#75787B" # Hokie Stone
+#    second_color = "#E5751F" # Burnt Orange
+#    third_color = "#861F41" # Chicago Maroon
+
+[params.colors]
+  main_color = "#2C5282" # Deep Denim Blue: Steady, Trustworthy, and Strong
+
+  # Source: https://brand.vt.edu/identity/color/color-util.html
+  # main_color = "#75787B" # Hokie Stone
+  second_color = "#E5751F" # Burnt Orange
+  third_color = "#861F41" # Chicago Maroon
 
 
 
