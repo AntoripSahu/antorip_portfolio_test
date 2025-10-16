@@ -197,7 +197,7 @@ sectionPagesMenu = 'main'
 # Pexels Background Configuration
 # This section configures the random background images for the hero section
 # The API key is securely handled via environment variables (see comments above)
-[params.pexels]
+#[params.pexels]
   # Image search queries for random background images
   # Customize this list to change the types of images that appear
   # The system will randomly select from these queries for each page loads
@@ -207,5 +207,5 @@ sectionPagesMenu = 'main'
     # "comet", "asteroid", "space station", "satellite",
     # "structural long span bridges", "structural skycrapers", "astronomy nasa pictures",
     #"universe solar systems nasa pictures", "structural long span bridges",
-    "nebula nasa pictures",
+    #"nebula nasa pictures",
   ]
