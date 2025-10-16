@@ -10,7 +10,7 @@ Welcome to my Contributions section. Here you'll find projects, tools, and open-
 
 ## Current Projects
 
-- Scheduler Student Services
-- CareerCanvas Hugo Theme
+- Project 1
+- Project 2
 
 Browse through the projects below or use the tags to find specific contributions. 
