@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Artificial Intelligence Consultant. Data Scientist. Computer Engineer"
+      tagline = "AI Engineer & Data Scientist"
       hero_description = "I am a Computer Engineer and independent consultant specializing in Artificial Intelligence, Data Science, and Technical Management. With over ten years of experience across consulting, aviation, and research, I help organizations transform complex data into actionable insights, enabling smarter, data-driven decision making and workflow automation."
       hero_location = "Kolkata, India"
       collab_tags = [
@@ -30,36 +30,8 @@ defaultContentLanguageInSubdir = false
         "Data Analysis & Visualization",
         "Technical Writing & Research"
       ]
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Español"
-    weight = 2
-    [languages.es.params]
-      tagline = "Ingeniero. Desarrollador de Software. Solucionador de problemas."
-      hero_description = "Ingeniero estructural y desarrollador de software con más de 14 años en Arquitectura, Ingeniería y Construcción (AEC), ampliando experiencia en IA/ML para crear soluciones inteligentes a problemas de ingeniería complejos."
-      hero_location = "Montreal, Canadá"
-      collab_tags = [
-        "Soluciones de IA/ML",
-        "Software de Ingeniería",
-        "I+D e Innovación",
-        "Liderazgo Técnico",
-        "Tecnología en Construcción"
-      ]
-  [languages.fr]
-    contentDir = "content/fr"
-    languageName = "Français"
-    weight = 3
-    [languages.fr.params]
-      tagline = "Ingénieur. Codeur. Résolveur de problèmes."
-      hero_description = "Ingénieur structure et développeur logiciel avec plus de 14 ans d'expérience dans l'architecture, l'ingénierie et la construction (AEC), développant des solutions intelligentes grâce à l'IA/ML pour résoudre des problèmes complexes."
-      hero_location = "Montréal, Canada"
-      collab_tags = [
-        "Solutions IA/ML",
-        "Logiciels d'ingénierie",
-        "R&D et Innovation",
-        "Leadership technique",
-        "Technologie de construction"
-      ]
+
+
 
 [build]
   writeStats = true
