@@ -1,7 +1,7 @@
 ---
 title: "Blog Template"
 date: 2025-10-15
-draft: true
+draft: false
 description: "Blog template tile text section."
 # featured_image: "/images/personal_web_demo.png"
 tags: ["blog", "welcome", "hugo", "web-development", "careercanvas"]
