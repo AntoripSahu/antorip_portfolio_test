@@ -40,3 +40,9 @@ url = "/contributions/"
 weight = 51
 pre = "contributions"
 
+[[main]]
+name = "Management"
+url = "/management/"
+weight = 51
+pre = "management"
+
