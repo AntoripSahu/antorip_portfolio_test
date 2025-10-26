@@ -20,7 +20,7 @@ weight = 5
 
 [[main]]
 name = "Tech Stack"
-url = "/#technical"
+url = "/#techstack"
 weight = 4.5
 
 #[[main]]
