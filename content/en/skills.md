@@ -44,4 +44,24 @@ domains:
     title: "Community & Learning"
     description: "Active in volunteer work and professional development, including structural assessment for disaster relief and student welcome programs. Recipient of Academic Excellence Scholarship at Collège LaSalle Montréal."
     devicon_class: "devicon-javascript-plain colored"
+
+  - icon: "code"
+    title: "Software Development"
+    description: "Building scalable engineering software solutions with Python and modern frameworks, focusing on real-time analysis and automation."
+    devicon_class: "devicon-python-plain colored"
+
+  - icon: "brain"
+    title: "Artificial Intelligence"
+    description: "Expanding expertise in LLM-based solutions and ML models for engineering applications, specializing in compliance tools and predictive analytics."
+    devicon_class: "devicon-tensorflow-original colored"
+
+  - icon: "chart-line"
+    title: "Data Science"
+    description: "Transforming complex data into actionable insights through statistical analysis, visualization, and machine learning techniques."
+    devicon_class: "devicon-pandas-plain colored"
+
+  - icon: "tools"
+    title: "Engineering Expertise"
+    description: "Applying structural engineering knowledge with modern technology to create innovative solutions for complex engineering challenges."
+    devicon_class: "devicon-docker-plain colored"
 ---
