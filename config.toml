@@ -38,7 +38,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
 name = "Antorip Sahu"
-
+favicon = "/static/images/favicon/favicon_A.png"
 tagline = "AI and Data Science Consultant"
 location = "Kolkata, India"
 email = "antorip[DOT]freelance[AT]gmail[DOT]com"
