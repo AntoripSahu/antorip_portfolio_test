@@ -4,9 +4,9 @@ type: "homepage"
 intro: >-
   From enterprise risk consulting to AI innovation, bridging analytical precision from aviation with strategic intelligence to build data-driven solutions.
 
-resume_url_en: "/files/Felipe_Cordero_CV_English_version.pdf"
+resume_url_en: "https://drive.google.com/file/d/1FVfSaBf4AbjJf_cwEwfRbkoMKUDc3UlL/view?usp=sharing"
 # resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
-resume_label: "Download Resume"
+resume_label: "Download Résumé"
 
 positions:
   - company: "Changing The Present"

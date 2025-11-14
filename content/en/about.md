@@ -8,17 +8,17 @@ intro: >-
 study: >-
   I hold a Master of Science in Computer Engineering from Virginia Tech, USA, where I completed a thesis in Artificial Intelligence and was awarded a Graduate Research Assistantship at Wireless@VT, a scholarship-based position supporting my graduate studies. I also earned a Bachelor of Engineering in Electrical and Electronics from Birla Institute of Technology and Science, Pilani, K.K. Birla Goa Campus, India, building a strong foundation for expertise in advanced analytics, Machine Learning, and data-driven solutions.
 
-  # edit from here
+# edit from here
 
-passion_title: "What I'm passionate about"
+passion_title: "What Drives My Work"
 passion_text: >-
-  I'm passionate about learning and applying **AI to real-world engineering challenges** 🔬. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, I develop **full-stack multi-user platforms** integrating **AI agents and RAG systems**, while building **state-of-the-art cybersecurity solutions** for enterprise chatbots 🛡️. I actively participate in **AI industry events** and drive **strategic business development** through client acquisition and partnerships 🤝. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led the development of **autonomous structural analysis tools** and **ML models** for concrete estimation 🏢. My goal is to create **innovative solutions** that have a real impact on the built environment.
+  I’m driven by the craft of solving complex problems through the precision of mathematics and the elegance of modern technology. From AI systems and research infrastructure to electronics and aviation engineering, I’m drawn to how data-driven tools reshape the real world — especially in an era where data is the new oil and numbers meet semantics through AI. I enjoy building clarity out of chaos, turning signals, data, and systems into solutions that create measurable impact.
 
-mix: >-
-  With experience in both **structural engineering** 🏗️ and **software development** 💻, I bring a **unique perspective** to technical challenges. I've led teams in building everything from **physical structures to scalable software systems**, always focusing on **practical, efficient solutions** ⚡. My **international background** and commitment to **continuous learning** drive me to bridge disciplines and deliver value across industries.
+# mix: >-
+#   With experience in both **structural engineering** 🏗️ and **software development** 💻, I bring a **unique perspective** to technical challenges. I've led teams in building everything from **physical structures to scalable software systems**, always focusing on **practical, efficient solutions** ⚡. My **international background** and commitment to **continuous learning** drive me to bridge disciplines and deliver value across industries.
 
-personal: >-
-  Outside work, I enjoy **tennis** 🎾, **cooking** 👨‍🍳, **drums** 🥁, **swimming** 🏊‍♂️, and **photography** 📸. I also **volunteer at LaSalle College**, helping new students settle in and supporting the academic community 🤝.
+# personal: >-
+#   Outside work, I enjoy **tennis** 🎾, **cooking** 👨‍🍳, **drums** 🥁, **swimming** 🏊‍♂️, and **photography** 📸. I also **volunteer at LaSalle College**, helping new students settle in and supporting the academic community 🤝.
 
 quickfacts:
   - icon: "briefcase"
