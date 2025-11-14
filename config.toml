@@ -61,7 +61,9 @@ github_text = "github.com/AntoripSahu"
 
 resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 # resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
-resume_label = "View CV"
+consulting_services_url = ""
+resume_label = "View Résumé"
+consulting_services_label = "View Consulting Services"
 
 # Contact Form Configuration
 # For security, sensitive endpoints are moved to config.local.toml
