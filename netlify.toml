@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "npx hugo"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.148.2"
