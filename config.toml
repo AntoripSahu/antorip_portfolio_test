@@ -6,9 +6,10 @@
 # - Production: Environment variables injected via GitHub Actions
 # - See comments below for setup instructions
 #
-baseURL = "https://felipecordero.com"
+
+baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "Felipe Cordero"
+title = "Antorip Sahu"
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -19,71 +20,49 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Engineer. Coder. Problem Solver."
-      hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
-      hero_location = "Montréal, Canada"
+      tagline = "AI and Data Science Consultant"
+      hero_description = "I am a Computer Engineer and independent consultant specializing in Artificial Intelligence, Data Science, and Technical Management. With over ten years of experience across consulting, aviation, and research, I help organizations transform complex data into actionable insights, enabling smarter, data-driven decision making and workflow automation."
+      hero_location = "Kolkata, India"
       collab_tags = [
-        "AI/ML Solutions",
-        "Engineering Software",
-        "R&D & Innovation",
-        "Technical Leadership",
-        "Construction Tech"
+        "Artificial Intelligence & Data Science",
+        "Machine Learning Solutions",
+        "Leadership, Strategy & Consulting",
+        "Data Analysis & Visualization",
+        "Technical Writing & Research"
       ]
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Español"
-    weight = 2
-    [languages.es.params]
-      tagline = "Ingeniero. Desarrollador de Software. Solucionador de problemas."
-      hero_description = "Ingeniero estructural y desarrollador de software con más de 14 años en Arquitectura, Ingeniería y Construcción (AEC), ampliando experiencia en IA/ML para crear soluciones inteligentes a problemas de ingeniería complejos."
-      hero_location = "Montreal, Canadá"
-      collab_tags = [
-        "Soluciones de IA/ML",
-        "Software de Ingeniería",
-        "I+D e Innovación",
-        "Liderazgo Técnico",
-        "Tecnología en Construcción"
-      ]
-  [languages.fr]
-    contentDir = "content/fr"
-    languageName = "Français"
-    weight = 3
-    [languages.fr.params]
-      tagline = "Ingénieur. Codeur. Résolveur de problèmes."
-      hero_description = "Ingénieur structure et développeur logiciel avec plus de 14 ans d'expérience dans l'architecture, l'ingénierie et la construction (AEC), développant des solutions intelligentes grâce à l'IA/ML pour résoudre des problèmes complexes."
-      hero_location = "Montréal, Canada"
-      collab_tags = [
-        "Solutions IA/ML",
-        "Logiciels d'ingénierie",
-        "R&D et Innovation",
-        "Leadership technique",
-        "Technologie de construction"
-      ]
+
+
 
 [build]
   writeStats = true
 
 [params]
-name = "Felipe Cordero"
-email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
-author = "Felipe Cordero"
+name = "Antorip Sahu"
+favicon = "/static/images/favicon/favicon_A.png"
+tagline = "AI and Data Science Consultant"
+location = "Kolkata, India"
+email = "antorip[DOT]freelance[AT]gmail[DOT]com"
+profile_image = "/images/antorip_sahu_profile.jpg"
+author = "Antorip Sahu"
 
-og_image = "images/felipecordero-og.png"
+og_image = "images/antorip_sahu_profile.jpg"
 
-description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
-
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
-
-copyright = "© 2025 | Felipe Cordero"
+description = "I am a Computer Engineer and an independent consultant focused on Artificial Intelligence, Data Science, and Technical Management. Over the past decade, I’ve worked across consulting, aviation, and research, helping organizations turn unruly data into decisive intelligence. My work enables sharper decision-making, streamlined systems, and automation that actually moves the needle."
 
 
-resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
-resume_label = "View CV"
+linkedin_url = "https://www.linkedin.com/in/antoripsahu"
+linkedin_text = "linkedin.com/in/antoripsahu"
+github_url = "https://github.com/AntoripSahu"
+github_text = "github.com/AntoripSahu"
+
+#copyright = "© 2025 Antorip Sahu. All rights reserved."
+
+
+get_in_touch = "Get in Touch"
+resume_url_en = "https://drive.google.com/file/d/1FVfSaBf4AbjJf_cwEwfRbkoMKUDc3UlL/view?usp=sharing"
+consulting_services_url = "https://drive.google.com/file/d/1K_A_Leit9HsTcsJfosKMf7MJybp-YRd5/view?usp=sharing"
+resume_label = "View Résumé"
+consulting_services_label =  "Consulting Services"
 
 # Contact Form Configuration
 # For security, sensitive endpoints are moved to config.local.toml
@@ -101,11 +80,11 @@ resume_label = "View CV"
 
 [[params.social]]
 icon = "linkedin-in"
-url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
+url = "https://www.linkedin.com/in/antoripsahu"
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/felipecordero"
+url = "https://github.com/AntoripSahu"
 
 sectionPagesMenu = 'main'
 
@@ -137,74 +116,89 @@ sectionPagesMenu = 'main'
 # Multiple color palettes that will be randomly selected on each page load
 # Each palette contains main_color, second_color, and third_color
 [params.color_palettes]
-  [[params.color_palettes.palette]]
-    name = "professional"
-    main_color = "#474A51"    # Graphite Gray – ultra professional, metallic, predominant
-    second_color = "#E52521"  # Mario Red – subtle accent, inspired by Super Mario
-    third_color = "#3CB043"   # Luigi Green – subtle accent, inspired by Luigi
-  
-  [[params.color_palettes.palette]]
-    name = "ocean"
-    main_color = "#1E40AF"    # Vibrant Blue – energetic and modern
-    second_color = "#06B6D4"  # Cyan – fresh and innovative
-    third_color = "#10B981"   # Emerald – growth and success
-  
-  [[params.color_palettes.palette]]
-    name = "sunset"
-    main_color = "#DC2626"    # Vibrant Red – warm and energetic
-    second_color = "#F59E0B"  # Amber – optimistic and bright
-    third_color = "#EF4444"   # Red Orange – passion and creativity
-  
-  [[params.color_palettes.palette]]
-    name = "forest"
-    main_color = "#059669"    # Deep Emerald – natural and stable
-    second_color = "#10B981"  # Green – growth and success
-    third_color = "#F59E0B"   # Golden Yellow – wisdom and clarity
-  
-  [[params.color_palettes.palette]]
-    name = "fire"
-    main_color = "#EA580C"    # Orange – creativity and enthusiasm
-    second_color = "#DC2626"  # Red – passion and energy
-    third_color = "#F59E0B"   # Amber – warmth and optimism
-  
-  [[params.color_palettes.palette]]
-    name = "steel"
-    main_color = "#374151"    # Steel Gray – industrial and reliable
-    second_color = "#6B7280"  # Medium Gray – balanced and professional
-    third_color = "#10B981"   # Emerald – success and precision
-  
-  [[params.color_palettes.palette]]
-    name = "navy"
-    main_color = "#1E3A8A"    # Navy Blue – authoritative and trustworthy
-    second_color = "#3B82F6"  # Bright Blue – innovation and clarity
-    third_color = "#F59E0B"   # Amber – excellence and achievement
-  
-  [[params.color_palettes.palette]]
-    name = "charcoal"
-    main_color = "#1F2937"    # Charcoal – sophisticated and modern
-    second_color = "#EF4444"  # Red – energy and determination
-    third_color = "#22C55E"   # Green – growth and stability
-  
-  [[params.color_palettes.palette]]
-    name = "slate"
-    main_color = "#475569"    # Slate Blue – professional and calm
-    second_color = "#0EA5E9"  # Sky Blue – clear thinking and progress
-    third_color = "#F97316"   # Orange – creativity and innovation
-  
-  [[params.color_palettes.palette]]
-    name = "midnight"
-    main_color = "#0F172A"    # Midnight Blue – deep and authoritative
-    second_color = "#8B5CF6"  # Purple – innovation and technology
-    third_color = "#06B6D4"   # Cyan – precision and clarity
-  
 
+#  [[params.color_palettes.palette]]
+#    name = "professional"
+#    main_color = "#474A51"    # Graphite Gray – ultra professional, metallic, predominant
+#    second_color = "#E52521"  # Mario Red – subtle accent, inspired by Super Mario
+#    third_color = "#3CB043"   # Luigi Green – subtle accent, inspired by Luigi
+  
+#  [[params.color_palettes.palette]]
+#    name = "ocean"
+#    main_color = "#1E40AF"    # Vibrant Blue – energetic and modern
+#    second_color = "#06B6D4"  # Cyan – fresh and innovative
+#    third_color = "#10B981"   # Emerald – growth and success
+  
+#  [[params.color_palettes.palette]]
+#    name = "sunset"
+#    main_color = "#DC2626"    # Vibrant Red – warm and energetic
+#    second_color = "#F59E0B"  # Amber – optimistic and bright
+#    third_color = "#EF4444"   # Red Orange – passion and creativity
+  
+#  [[params.color_palettes.palette]]
+#    name = "forest"
+#    main_color = "#059669"    # Deep Emerald – natural and stable
+#    second_color = "#10B981"  # Green – growth and success
+#    third_color = "#F59E0B"   # Golden Yellow – wisdom and clarity
+  
+#  [[params.color_palettes.palette]]
+#    name = "fire"
+#    main_color = "#EA580C"    # Orange – creativity and enthusiasm
+#    second_color = "#DC2626"  # Red – passion and energy
+#    third_color = "#F59E0B"   # Amber – warmth and optimism
+  
+#  [[params.color_palettes.palette]]
+#    name = "steel"
+#    main_color = "#374151"    # Steel Gray – industrial and reliable
+#    second_color = "#6B7280"  # Medium Gray – balanced and professional
+#    third_color = "#10B981"   # Emerald – success and precision
+  
+#  [[params.color_palettes.palette]]
+#    name = "navy"
+#    main_color = "#1E3A8A"    # Navy Blue – authoritative and trustworthy
+#    second_color = "#3B82F6"  # Bright Blue – innovation and clarity
+#    third_color = "#F59E0B"   # Amber – excellence and achievement
+  
+#  [[params.color_palettes.palette]]
+#    name = "charcoal"
+#    main_color = "#1F2937"    # Charcoal – sophisticated and modern
+#    second_color = "#EF4444"  # Red – energy and determination
+#    third_color = "#22C55E"   # Green – growth and stability
+  
+#  [[params.color_palettes.palette]]
+#    name = "slate"
+#    main_color = "#475569"    # Slate Blue – professional and calm
+#    second_color = "#0EA5E9"  # Sky Blue – clear thinking and progress
+#    third_color = "#F97316"   # Orange – creativity and innovation
+  
+#  [[params.color_palettes.palette]]
+#    name = "midnight"
+#    main_color = "#0F172A"    # Midnight Blue – deep and authoritative
+#    second_color = "#8B5CF6"  # Purple – innovation and technology
+#    third_color = "#06B6D4"   # Cyan – precision and clarity
+
+#  [[params.color_palettes.palette]]
+#    name = "serious_hokie"
+#    main_color = "#2C5282" # Deep Denim Blue: Steady, Trustworthy, and Strong
+#    # Source: https://brand.vt.edu/identity/color/color-util.html
+#    # main_color = "#75787B" # Hokie Stone
+#    second_color = "#E5751F" # Burnt Orange
+#    third_color = "#861F41" # Chicago Maroon
+
+[params.colors]
+  main_color = "#2C5282" # Deep Denim Blue: Steady, Trustworthy, and Strong
+
+  # Source: https://brand.vt.edu/identity/color/color-util.html
+  # main_color = "#75787B" # Hokie Stone
+  second_color = "#E5751F" # Burnt Orange
+  third_color = "#861F41" # Chicago Maroon
 
 
 
 # Pexels Background Configuration
 # This section configures the random background images for the hero section
 # The API key is securely handled via environment variables (see comments above)
-[params.pexels]
+#[params.pexels]
   # Image search queries for random background images
   # Customize this list to change the types of images that appear
   # The system will randomly select from these queries for each page loads
@@ -213,6 +207,6 @@ sectionPagesMenu = 'main'
     # "solar system", "black hole", "constellation", "meteor",
     # "comet", "asteroid", "space station", "satellite",
     # "structural long span bridges", "structural skycrapers", "astronomy nasa pictures",
-    "universe solar systems nasa pictures", "structural long span bridges",
-    "nebula nasa pictures",
+    #"universe solar systems nasa pictures", "structural long span bridges",
+    #"nebula nasa pictures",
   ]

@@ -2,46 +2,53 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  Combining 14+ years of structural engineering expertise with modern software development and expanding into AI/ML capabilities.
+  Combining a decade of technical consulting, software engineering, and research experience with advanced AI/ML capabilities to drive modern, data-driven solutions.
 
 domains:
-  - icon: "code"
-    title: "Software Development"
-    description: "Building scalable engineering software solutions with Python and modern frameworks, focusing on real-time analysis and automation."
-    devicon_class: "devicon-python-plain colored"
 
-  - icon: "brain"
-    title: "Artificial Intelligence"
-    description: "Expanding expertise in LLM-based solutions and ML models for engineering applications, specializing in compliance tools and predictive analytics."
-    devicon_class: "devicon-tensorflow-original colored"
 
-  - icon: "chart-line"
-    title: "Data Science"
-    description: "Transforming complex data into actionable insights through statistical analysis, visualization, and machine learning techniques."
-    devicon_class: "devicon-pandas-plain colored"
 
-  - icon: "tools"
-    title: "Engineering Expertise"
-    description: "Applying structural engineering knowledge with modern technology to create innovative solutions for complex engineering challenges."
-    devicon_class: "devicon-docker-plain colored"
+
+
+
 
   - icon: "users"
     title: "Leadership & Project Management"
-    description: "Leading cross-functional teams in R&D and software development, managing complex projects up to 20,000 m², and coordinating multidisciplinary initiatives."
+    description: "Leading cross-functional teams across AI, software, and backend development, overseeing complex technical pipelines, and coordinating multidisciplinary engineering efforts spanning research, aviation, and distributed systems."
     devicon_class: "devicon-github-original colored"
 
   - icon: "lightbulb"
     title: "Business & Strategy"
-    description: "Developing innovation strategies and preparing comprehensive documentation for tech-driven solutions, including investment proposals exceeding $500K USD."
+    description: "Developing technical strategies and preparing end-to-end documentation for AI, software, and aviation-focused solutions, including managing research infrastructure exceeding $300K USD and supporting complex enterprise systems."
     devicon_class: "devicon-react-original colored"
 
   - icon: "globe"
     title: "International Experience"
-    description: "Native Spanish speaker with full professional English proficiency and intermediate French, enabling effective communication in diverse international settings."
+    description: "International experience across the USA, UAE, Europe, and India, bringing a steady, dependable approach to AI, software, and consulting engagements in research, aviation, and enterprise settings."
     devicon_class: "devicon-html5-plain colored"
 
   - icon: "hands-helping"
     title: "Community & Learning"
-    description: "Active in volunteer work and professional development, including structural assessment for disaster relief and student welcome programs. Recipient of Academic Excellence Scholarship at Collège LaSalle Montréal."
+    description: "Active in community-focused work, contributing to education initiatives at Changing The Present and drawing on prior academic engagement at Virginia Tech, with a steady commitment to using technology for meaningful educational impact."
     devicon_class: "devicon-javascript-plain colored"
+
+  - icon: "code"
+    title: "Software Development"
+    description: "Building scalable AI and engineering systems across clusters and cloud platforms, with a focus on data pipelines, automation, and real-time analysis."
+    devicon_class: "devicon-python-plain colored"
+
+  - icon: "brain"
+    title: "Artificial Intelligence"
+    description: "Expanding expertise in LLM-driven systems and ML models for engineering workflows, specializing in scalable data pipelines, signal analysis, and automated compliance."
+    devicon_class: "devicon-tensorflow-original colored"
+
+  - icon: "chart-line"
+    title: "Data Science"
+    description: "Transforming complex data into actionable intelligence through data-mining pipelines, advanced modeling, and scalable machine learning workflows for unstructured data."
+    devicon_class: "devicon-pandas-plain colored"
+
+  - icon: "tools"
+    title: "Engineering Expertise"
+    description: "Applying electronics and systems engineering expertise to build robust solutions for complex hardware, network, and computing challenges."
+    devicon_class: "devicon-docker-plain colored"
 ---

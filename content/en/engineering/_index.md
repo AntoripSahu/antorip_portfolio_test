@@ -1,6 +1,6 @@
 +++
-title = "Structural Engineering"
-description = "Explore my structural engineering tools and solutions for modern construction challenges."
+title = "Engineering Projects"
+description = "Engineering Projects Text"
 type = "list"
 # menu = "main"
 weight = 50
