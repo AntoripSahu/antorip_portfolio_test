@@ -49,14 +49,12 @@ og_image = "images/antorip_sahu_profile.jpg"
 
 description = "I am a Computer Engineer and an independent consultant focused on Artificial Intelligence, Data Science, and Technical Management. Over the past decade, I’ve worked across consulting, aviation, and research, helping organizations turn unruly data into decisive intelligence. My work enables sharper decision-making, streamlined systems, and automation that actually moves the needle."
 
-
 linkedin_url = "https://www.linkedin.com/in/antoripsahu"
 linkedin_text = "linkedin.com/in/antoripsahu"
 github_url = "https://github.com/AntoripSahu"
 github_text = "github.com/AntoripSahu"
 
 #copyright = "© 2025 Antorip Sahu. All rights reserved."
-
 
 get_in_touch = "Get in Touch"
 resume_url_en = "https://drive.google.com/file/d/1FVfSaBf4AbjJf_cwEwfRbkoMKUDc3UlL/view?usp=sharing"
