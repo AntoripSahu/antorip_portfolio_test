@@ -58,12 +58,12 @@ github_text = "github.com/AntoripSahu"
 #copyright = "© 2025 Antorip Sahu. All rights reserved."
 
 
-
-resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
+get_in_touch = "Get in Touch"
+resume_url_en = "https://drive.google.com/file/d/1FVfSaBf4AbjJf_cwEwfRbkoMKUDc3UlL/view?usp=sharing"
 # resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
-consulting_services_url = ""
+consulting_services_url = "https://drive.google.com/file/d/1K_A_Leit9HsTcsJfosKMf7MJybp-YRd5/view?usp=sharing"
 resume_label = "View Résumé"
-consulting_services_label = "View Consulting Services"
+consulting_services_label =  "Consulting Services"
 
 # Contact Form Configuration
 # For security, sensitive endpoints are moved to config.local.toml
